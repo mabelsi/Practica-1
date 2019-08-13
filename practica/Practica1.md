@@ -39,7 +39,7 @@ Este proceso de despacho, que a simple vista parece muy simple, es en realidad m
 
 6. Con un gráfico explique cómo funciona el protocolo HTTP.
 
-   ![img](..\practica\protocolo.png)
+   ![img](...\practica\protocolo.png)
 
 7. Explique los elementos importantes de REQUEST en HTTP.
 
